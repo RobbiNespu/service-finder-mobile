@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.revivalx.service-finder-mobile"
+    version   = "1.0.0">
+
+<name>Service Finder</name>
+
+<description>
+A Service Finder application.
+</description>
+
+<author href="https://revivalx.com" email="lowyat_net@yahoo.com">
+Mohammad Nurdin bin Norazan
+</author>
+
+<icon src="images/icons/android/ldpi.png" gap:platform="android" gap:density="ldpi" />
+<icon src="images/icons/android/mdpi.png" gap:platform="android" gap:density="mdpi" />
+<icon src="images/icons/android/hdpi.png" gap:platform="android" gap:density="hdpi" />
+<icon src="images/icons/android/xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+<icon src="images/icons/android/xxhdpi.png" gap:platform="android" gap:density="xxhdpi" />
+
+</widget>
